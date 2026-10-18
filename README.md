@@ -14,3 +14,12 @@ NCV や「わんコメ」と連携した自動予約登録、OBS 等への部屋
 連携プラグインは本体に完全内蔵されており、初回起動時にワンクリックで導入できます。
 
 ダウンロード (x64): [MQM_v0.8.3_win-x64.zip](https://github.com/Rukoto/Pandora-Box/releases/download/MQM-v0.8.3/MQM_v0.8.3_win-x64.zip)
+
+---
+## 「RukoTalk Ver.0.9.1」
+「棒読みちゃん」互換の通信機能を備えた、VOICEVOX 連携型のテキスト読み上げアプリです。  
+NCV や「わんコメ」等の既存設定を変更することなく、VOICEVOX 系の音声合成エンジンでコメントを読み上げます。  
+フレーズ単位のアクセント調整や辞書置換、大量コメント時の自動スキップ機能を備えています。
+
+ダウンロード (x64): [RukoTalk_v0.9.1_win-x64.zip](https://github.com/Rukoto/Pandora-Box/releases/download/RukoTalk-v0.9.1/RukoTalk_v0.9.1_win-x64.zip)
+
