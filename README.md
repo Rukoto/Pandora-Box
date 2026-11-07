@@ -22,9 +22,9 @@
 ダウンロード (x64): [RukoTalk_v1.0.0_win-x64.zip](https://github.com/Rukoto/Pandora-Box/releases/download/RukoTalk-v1.0.0/RukoTalk_v1.0.0_win-x64.zip)
 
 ---
-## 「MQM Ver.1.0.0」
-ニコニコ生放送・YouTube・Twitch・ツイキャス等の麻雀配信において、視聴者参加型の対局予約・待機列・枠管理をスムーズに行う配信支援アプリです。  
-「NCV」および「わんコメ」とリアルタイムに連携し、コメントからの自動予約や参加枠の進行管理、OBS 等へのテロップ出力を一元化します。
+## 「MQM Ver.1.1.0」
+YouTubeを始めとした麻雀配信において、視聴者参加型の対局予約・待機列・枠管理をスムーズに行う配信支援アプリです。  
+コメント ビューアーである「NCV」や「わんコメ」にプラグインをご右乳することでリアルタイムに連携し、コメントからの自動予約や参加枠の進行管理、OBS 等へのテロップ出力を一元化します。
 
 ![MQM](MQM.png)
 
@@ -33,4 +33,4 @@
 - **OBS / nAir 連携テロップ自動出力**: 部屋番号 (`MQM_room_id.txt`)、準備中・対局中（LIVE）の状況に応じた予約字幕テロップ (`MQM_subtitle.txt`)、募集終了案内 (`MQM_closed.txt`) をリアルタイムにファイル出力
 - **セッション自動復元 ＆ テスト機能**: 不意の再起動時でも対局・予約状態を保持するセッション復元機能や、各配信サイトの模擬コメントを送信できるコメント テスターを搭載
 
-ダウンロード (x64): [MQM_v1.0.0_win-x64.zip](https://github.com/Rukoto/Pandora-Box/releases/download/MQM-v1.0.0/MQM_v1.0.0_win-x64.zip)
+ダウンロード (x64): [MQM_v1.1.0_win-x64.zip](https://github.com/Rukoto/Pandora-Box/releases/download/MQM-v1.1.0/MQM_v1.1.0_win-x64.zip)
